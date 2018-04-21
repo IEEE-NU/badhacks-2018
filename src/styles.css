@@ -1,4 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
-body{
-    background-color: rgb(0, 1, 29);
+@import url('https://fonts.googleapis.com/css?family=Space+Mono|Work+Sans');
+
+body {
+    background-color: rgb(0, 1, 29); 
+    color: rgb(253, 250, 246);
+    font-family: 'Work Sans', sans-serif;
+/*     overflow-x: hidden;
+ */}
+
+h1{
+    font-family: 'Space Mono', sans-serif;
+}
+
+a{
+    color: #f8db10;
+}
+
+a:hover{
+    color: goldenrod;
 }

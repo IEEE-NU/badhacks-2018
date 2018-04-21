@@ -2,6 +2,12 @@ body {
     height: 100vh;
 }
 
+.container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+
 #splash {
     margin-top: 1rem;
     display: flex;

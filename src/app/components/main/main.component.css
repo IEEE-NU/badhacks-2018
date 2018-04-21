@@ -1,15 +1,15 @@
-body{
+body {
     color: white;
 }
 
-.about, .faq, .schedule{
+.about, .faq, .schedule {
     text-align: center;
 }
 
-.container{
-    margin-top:2rem;
+.container {
+    margin-top: 2rem;
 }
 
-.card{
+.card {
     background-color: inherit;
 }

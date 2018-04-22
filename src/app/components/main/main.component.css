@@ -32,9 +32,23 @@ h1{
     position: relative;
     right: 33px;
 }
-
+/* 
 .asteroids {
     position: relative;
     left: 310px;
     top: 30px;
+} */
+
+#asteroids-hold {
+    margin-top: 1rem;
+    display: flex;
+    /* establish flex container */
+    flex-direction: column;
+    /* stack flex items vertically */
+    justify-content: center;
+    /* center items vertically, in this case */
+    align-items: center;
+    /* center items horizontally, in this case */
+    height: 50vh;
+    text-align: center;
 }

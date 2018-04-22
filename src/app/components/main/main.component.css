@@ -27,3 +27,14 @@ h1{
     padding-bottom: 1rem;
     margin-bottom: 3rem;
 }
+
+.question {
+    position: relative;
+    right: 33px;
+}
+
+.asteroids {
+    position: relative;
+    left: 310px;
+    top: 30px;
+}
